@@ -1,4 +1,4 @@
-# -PRODIGY_CS_02-Image_Encryption_Tool_with_GUI
+# Image_Encryption_Tool_with_GUI
 This project implements an image encryption tool in Python that transforms any input image into an unrecognizable output resembling random noise. The tool supports both encryption and decryption—ensuring that using the same key recovers the original image losslessly. It also features a user-friendly GUI built with Tkinter.
 
 ## Installation
